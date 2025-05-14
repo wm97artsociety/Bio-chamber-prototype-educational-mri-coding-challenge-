@@ -34,7 +34,5 @@ This software is released under the MIT License. You can freely modify and distr
 This software is for simulation purposes only and is not intended for use with actual medical equipment. Use at your own risk.
 
 ## Authors
-- Developed by [Your Name]
+- Developed by wm97 
 - Based on the BioCell Recalibration Chamber concept design
-
-For more information, contact: [Your Contact Information]
